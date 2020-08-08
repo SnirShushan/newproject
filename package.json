@@ -1,0 +1,70 @@
+{
+  "homepage": "http://snirshushan.github.io/newproject",
+  "name": "newproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.0",
+    "cli": "^1.0.1",
+    "core-util-is": "^1.0.2",
+    "emailjs-com": "^2.6.3",
+    "express": "^4.17.1",
+    "mailgun-js": "^0.22.0",
+    "mdbootstrap": "^4.19.1",
+    "mdbreact": "^4.27.0",
+    "mysql": "^2.18.1",
+    "navdropdown": "^1.0.0",
+    "node": "^14.5.0",
+    "node-module": "^2.0.0",
+    "node-modules": "^1.0.1",
+    "nodemailer": "^6.4.10",
+    "nodemon": "^2.0.4",
+    "php": "0.0.1",
+    "react": "^16.13.1",
+    "react-animated-css": "^1.2.1",
+    "react-bootstrap": "^1.2.2",
+    "react-bootstrap-dropdown-menu": "^1.1.15",
+    "react-bootstrap-navdropdown-active": "^0.2.0",
+    "react-burger-menu": "^2.7.0",
+    "react-color": "^2.18.1",
+    "react-dom": "^16.13.1",
+    "react-hamburger-menu": "^1.2.1",
+    "react-icons": "^3.10.0",
+    "react-radio-buttons": "^1.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
+    "react-scrollchor": "^6.0.0",
+    "react-table": "^7.3.0",
+    "sweetalert": "^2.1.2",
+    "xlsx": "^0.15.6"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "prop-types": "^15.6.2"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
