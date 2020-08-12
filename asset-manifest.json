@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/newproject/static/css/main.c1006b50.chunk.css",
-    "main.js": "/newproject/static/js/main.4878da87.chunk.js",
-    "main.js.map": "/newproject/static/js/main.4878da87.chunk.js.map",
+    "main.js": "/newproject/static/js/main.4031b77b.chunk.js",
+    "main.js.map": "/newproject/static/js/main.4031b77b.chunk.js.map",
     "runtime-main.js": "/newproject/static/js/runtime-main.d17234a1.js",
     "runtime-main.js.map": "/newproject/static/js/runtime-main.d17234a1.js.map",
     "static/css/2.af3c1da9.chunk.css": "/newproject/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.db703588.chunk.js": "/newproject/static/js/2.db703588.chunk.js",
-    "static/js/2.db703588.chunk.js.map": "/newproject/static/js/2.db703588.chunk.js.map",
+    "static/js/2.33e2b94e.chunk.js": "/newproject/static/js/2.33e2b94e.chunk.js",
+    "static/js/2.33e2b94e.chunk.js.map": "/newproject/static/js/2.33e2b94e.chunk.js.map",
     "index.html": "/newproject/index.html",
-    "precache-manifest.8d9117c747e5400dbaaa615a5fa2d64d.js": "/newproject/precache-manifest.8d9117c747e5400dbaaa615a5fa2d64d.js",
+    "precache-manifest.ccced7466b768fb7147c79277b4212e0.js": "/newproject/precache-manifest.ccced7466b768fb7147c79277b4212e0.js",
     "service-worker.js": "/newproject/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/newproject/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.c1006b50.chunk.css.map": "/newproject/static/css/main.c1006b50.chunk.css.map",
-    "static/js/2.db703588.chunk.js.LICENSE.txt": "/newproject/static/js/2.db703588.chunk.js.LICENSE.txt",
+    "static/js/2.33e2b94e.chunk.js.LICENSE.txt": "/newproject/static/js/2.33e2b94e.chunk.js.LICENSE.txt",
     "static/media/Brugarolas.png": "/newproject/static/media/Brugarolas.4a2d39dd.png",
     "static/media/ELLSWORTH.png": "/newproject/static/media/ELLSWORTH.bfa88008.png",
     "static/media/Everlube.png": "/newproject/static/media/Everlube.874d6931.png",
@@ -23,7 +23,6 @@
     "static/media/Mobil.png": "/newproject/static/media/Mobil.11e94f3b.png",
     "static/media/Polysi.png": "/newproject/static/media/Polysi.73fb0a13.png",
     "static/media/Radco.png": "/newproject/static/media/Radco.cbbad1fb.png",
-    "static/media/SearchBg.jpg": "/newproject/static/media/SearchBg.aaf93cdf.jpg",
     "static/media/address.png": "/newproject/static/media/address.2efe1f7f.png",
     "static/media/contact_bg.jpg": "/newproject/static/media/contact_bg.426f374e.jpg",
     "static/media/esgard.jpeg": "/newproject/static/media/esgard.658eb48a.jpeg",
@@ -34,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.d17234a1.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.db703588.chunk.js",
+    "static/js/2.33e2b94e.chunk.js",
     "static/css/main.c1006b50.chunk.css",
-    "static/js/main.4878da87.chunk.js"
+    "static/js/main.4031b77b.chunk.js"
   ]
 }
