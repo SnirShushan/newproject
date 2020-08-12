@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/newproject/static/css/main.0cda2b6b.chunk.css",
-    "main.js": "/newproject/static/js/main.d701eb03.chunk.js",
-    "main.js.map": "/newproject/static/js/main.d701eb03.chunk.js.map",
+    "main.js": "/newproject/static/js/main.aaeca238.chunk.js",
+    "main.js.map": "/newproject/static/js/main.aaeca238.chunk.js.map",
     "runtime-main.js": "/newproject/static/js/runtime-main.d17234a1.js",
     "runtime-main.js.map": "/newproject/static/js/runtime-main.d17234a1.js.map",
-    "static/js/2.283ff110.chunk.js": "/newproject/static/js/2.283ff110.chunk.js",
-    "static/js/2.283ff110.chunk.js.map": "/newproject/static/js/2.283ff110.chunk.js.map",
+    "static/js/2.441099ed.chunk.js": "/newproject/static/js/2.441099ed.chunk.js",
+    "static/js/2.441099ed.chunk.js.map": "/newproject/static/js/2.441099ed.chunk.js.map",
     "index.html": "/newproject/index.html",
-    "precache-manifest.513b58b241c1433bbc83fb84857bbd13.js": "/newproject/precache-manifest.513b58b241c1433bbc83fb84857bbd13.js",
+    "precache-manifest.fc5c7903d7d06873e7e8686c0b02d353.js": "/newproject/precache-manifest.fc5c7903d7d06873e7e8686c0b02d353.js",
     "service-worker.js": "/newproject/service-worker.js",
     "static/css/main.0cda2b6b.chunk.css.map": "/newproject/static/css/main.0cda2b6b.chunk.css.map",
-    "static/js/2.283ff110.chunk.js.LICENSE.txt": "/newproject/static/js/2.283ff110.chunk.js.LICENSE.txt",
+    "static/js/2.441099ed.chunk.js.LICENSE.txt": "/newproject/static/js/2.441099ed.chunk.js.LICENSE.txt",
     "static/media/Brugarolas.png": "/newproject/static/media/Brugarolas.4a2d39dd.png",
     "static/media/ELLSWORTH.png": "/newproject/static/media/ELLSWORTH.bfa88008.png",
     "static/media/Everlube.png": "/newproject/static/media/Everlube.874d6931.png",
@@ -30,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d17234a1.js",
-    "static/js/2.283ff110.chunk.js",
+    "static/js/2.441099ed.chunk.js",
     "static/css/main.0cda2b6b.chunk.css",
-    "static/js/main.d701eb03.chunk.js"
+    "static/js/main.aaeca238.chunk.js"
   ]
 }
