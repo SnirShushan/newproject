@@ -3,6 +3,7 @@
   "name": "newproject",
   "version": "0.1.0",
   "private": true,
+  "repository": { "type": "git", "url": "git@github.com:SnirShushan/newproject.git"},
   "dependencies": {
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.0",
@@ -28,7 +29,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
