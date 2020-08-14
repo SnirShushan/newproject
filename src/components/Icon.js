@@ -47,9 +47,6 @@ const icon = () => {
            <a href='https://radco.com/' target='https://radco.com/'> 
            <img src={Radco} alt={Radco} style={{width: '7%', margin:'1.5%',opacity: "0.8"}}/>
            </a>
-        
-        
-       
         </div>
   );
 };

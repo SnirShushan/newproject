@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import {CardGroup, Col,Container, Row, Button,Card,Form,Image} from 'react-bootstrap';
+import {CardGroup, Col,Container, Row, Card,Form,Image} from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import "./Home.css";
 import Arrow from "../Icons/arrow.png";
@@ -10,11 +10,10 @@ import MAIL from "../Icons/mail.png";
 import PHONE from "../Icons/phone.png";
 import ContactBg from "../Icons/contact_bg.jpg";
 import orderI from "../Icons/order.png";
-import spleetBG from "../Icons/SearchBg.jpg";
 import tankBG from "../Icons/tank.jpg";
 
 
-export default class Home extends Component {
+class Home extends Component {
 
   componentDidMount() {
     window.scrollTo(0, 0);
@@ -134,12 +133,9 @@ Innovation, responsibility and service are the cores of ITC’s activity and it 
     </Card>
 </CardGroup>
 </div>
-<div>
-        <Icon/>
-  </div>
 </div>
   );
 };
 }
 
-
+export default Home
