@@ -13,7 +13,7 @@ const navbar = () => {
         <div>
         <Navbar className="bg-dark">
         <Nav>
-          <Nav.Link>
+          <Nav.Link href="./">
             <Link to="./" className="nav-link">
               <h2 className="text-white m-1">I.T.C - Site</h2>
             </Link>
