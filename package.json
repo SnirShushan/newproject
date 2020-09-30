@@ -1,15 +1,19 @@
 {
-  "homepage": "https://snirshushan.github.io/newproject/.",
+  "homepage": "https://snirshushan.github.io/newproject/src/Home.js",
   "name": "newproject",
   "version": "0.1.0",
   "private": true,
-  "repository": { "type": "git", "url": "git@github.com:SnirShushan/newproject.git"},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SnirShushan/newproject.git"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.0",
     "emailjs-com": "^2.6.3",
     "mdbootstrap": "^4.19.1",
     "mdbreact": "^4.27.0",
+    "module": "^1.2.5",
     "navdropdown": "^1.0.0",
     "react": "^16.13.1",
     "react-animated-css": "^1.2.1",
@@ -29,7 +33,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

@@ -11,7 +11,10 @@ import Nyco from "../Icons/Nyco.png";
 import Polysi from "../Icons/Polysi.png";
 import Radco from "../Icons/Radco.png";
 
+
+
 const icon = () => {
+  
   return (
     <div className="mt-5 text-center">
           <a href='https://www.ellsworth.com/products/' target='https://www.ellsworth.com/products/'>
@@ -50,5 +53,6 @@ const icon = () => {
         </div>
   );
 };
+
 
 export default icon;

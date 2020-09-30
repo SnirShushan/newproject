@@ -12,7 +12,7 @@ function App() {
     <div  className="container-fluid">
       <Router>
         <Navbar />
-        <Route path="/" exact component={Home} />
+        <Route path="/Home" exact component={Home} />
         <Route path="/Products" exact component={Products} />
         <Route path="/Order" exact component={Order}/>
         <Icon />
