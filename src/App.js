@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Products from "./components/Products";
 import Order from "./components/Order";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Redirect } from "react-router-dom";
 import Icon from "./components/Icon";
 
 
@@ -12,7 +12,8 @@ function App() {
     <div  className="container-fluid">
       <Router>
         <Navbar />
-        <Route path="/Home" exact component={Home} />
+        <Redirect exact from="/" to={Home} />
+        <Route path="/" exact component={Home} />
         <Route path="/Products" exact component={Products} />
         <Route path="/Order" exact component={Order}/>
         <Icon />
