@@ -14,19 +14,19 @@ const navbar = () => {
         <Navbar className="bg-dark">
         <Nav>
             <Link to="./" className="nav-link">
-              <h2 className="text-white m-1">I.T.C - Site</h2>
+              <h2 className="text-white m-4">I.T.C - Site</h2>
             </Link>
           
             <Link to="./Products" className="nav-link">
-              <h2 className="text-white m-1">Products</h2>
+              <h2 className="text-white m-4">Products</h2>
             </Link>
 
             <Link to="./Order" className="nav-link">
-              <h2 className="text-white m-1">Order</h2>
+              <h2 className="text-white m-4">Order</h2>
             </Link>
 
-            <Link to="./Products" className="nav-link">
-              <h2 className="text-white m-1">Brands</h2>
+            <Link to="./Brands" className="nav-link">
+              <h2 className="text-white m-4">Brands</h2>
             </Link>
         </Nav>
       </Navbar>
